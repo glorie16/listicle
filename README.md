@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/a/wCqHvKO
+https://imgur.com/a/web103-week-1-project-listicle-gloriele-mendoza-QBD0YpA
 
 Recorded using Mac screen record feature
 Uploaded onto Imgur
