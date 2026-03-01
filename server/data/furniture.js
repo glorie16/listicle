@@ -8,9 +8,9 @@ const furnitureData = [
     {
         "id": 2,
         "name": "Cat Plushie",
-        "price": "$",
+        "price": "150 bells",
         "image": "https://cdn.nookazon.com/nookazon/FtrIcon/FtrStuffedCat_Remake_1_0.png",
-        "description": "1000 bells"
+        "description": "This adorable cat plushie is part of the new 3.0 update. It comes in a variety of colors, including white, orange, beige, and gray. The perfect companion to add to your home!"
     },
     {
         "id": 3,

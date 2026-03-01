@@ -2,7 +2,7 @@
 
 Submitted by: **Gloriele Mendoza**
 
-About this web app: **App description here**
+About this web app: **This web app displays furniture items from the video game Animal Crossing: New Horizons. The goal is to give users inspiration on how to decorate their island in-game. Each furniture card includes details about the furniture's price and a description.**
 
 Time spent: **10** hours
 
@@ -32,14 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/wCqHvKO
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Recorded using Mac screen record feature
+Uploaded onto Imgur
 
 ## Notes
 

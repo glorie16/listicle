@@ -14,7 +14,7 @@ const renderFurniture = async () => {
         document.getElementById('name').textContent = furniture.name
         document.getElementById('price').textContent = 'Price: ' + furniture.price
         document.getElementById('description').textContent = furniture.description
-        document.title = `UnEarthed - ${furniture.name}`
+        document.title = `Animal Crossing - ${furniture.name}`
     }
     else {
         const noDataMsg = document.createElement('h2')

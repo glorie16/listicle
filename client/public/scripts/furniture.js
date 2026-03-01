@@ -25,6 +25,8 @@ const renderFurnitureHome = async () => {
 
             const link = document.createElement('a')
             link.textContent = "Read More"
+            link.className = "read-more-btn"
+
             link.setAttribute('role', 'button')
             link.href = `/furniture/${furniture.id}`
             bottomContainer.appendChild(link)

@@ -11,6 +11,7 @@ const renderFurnitureHome = async () => {
 
             const topContainer = document.createElement('div')
             topContainer.classList.add('top-container')
+            topContainer.style.backgroundImage = `url('${furniture.image}')`;
             const bottomContainer = document.createElement('div')
             bottomContainer.classList.add('bottom-container')
 
@@ -24,6 +25,8 @@ const renderFurnitureHome = async () => {
 
             const link = document.createElement('a')
             link.textContent = "Read More"
+            link.className = "read-more-btn"
+
             link.setAttribute('role', 'button')
             link.href = `/furniture/${furniture.id}`
             bottomContainer.appendChild(link)

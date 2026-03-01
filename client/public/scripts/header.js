@@ -1,4 +1,5 @@
 const header = document.querySelector('header')
+header.className="header"
 
 const headerContainer = document.createElement('div')
 headerContainer.className = 'header-container'
@@ -7,6 +8,7 @@ const headerLeft = document.createElement('div')
 headerLeft.className = 'header-left'
 
 const headerTitle = document.createElement('h1')
+headerTitle.className = "header-title"
 headerTitle.textContent = 'Animal Crossing Furniture'
 
 const headerRight = document.createElement('div')
@@ -21,7 +23,7 @@ headerButton.addEventListener('click', function handleClick(event) {
 })
 
 headerRight.appendChild(headerButton)
-headerLeft.appendChild(headerTitle);
+headerLeft.appendChild(headerTitle)
 
 headerContainer.appendChild(headerLeft)
 headerContainer.appendChild(headerRight)
