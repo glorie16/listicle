@@ -11,6 +11,7 @@ const renderFurnitureHome = async () => {
 
             const topContainer = document.createElement('div')
             topContainer.classList.add('top-container')
+            topContainer.style.backgroundImage = `url('${furniture.image}')`;
             const bottomContainer = document.createElement('div')
             bottomContainer.classList.add('bottom-container')
 

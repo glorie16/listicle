@@ -1,15 +1,25 @@
 :root {
-    background-color: white;
+    background-color: rgb(168, 225, 157);
     font-family: Avenir, Helvetica, sans-serif;
     color: black;
 }
 
+.header {
+    background-image: url('https://i.pinimg.com/1200x/28/08/bb/2808bbcab6f2576d26e72e2128a31c55.jpg');
+    background-size: cover;     /* make it cover the container fully */
+    background-position: center;/* center the image */
+    background-repeat: no-repeat; 
+}
+    
 /* Header CSS */
-.header-container {
+.header-container{
     overflow: hidden;
     padding: 20px 10px;
     padding-bottom: 60px;
+    
   }
+
+
 
 .header-left {
     float: left;

@@ -2,37 +2,36 @@ const furnitureData = [
     {
         "id": 1,
         "name": "Cruiser Bike",
-        "price": "$",
-        "image": "",
-        "description": ""
-    },
+        "price": "2800 bells",
+        "image": "https://dodo.ac/np/images/6/67/Cruiser_Bike_%28Red%29_NL_Model.png",
+        "description": "A cute bike that comes with a metal basket! Comes in red, white, light blue, black, orange, and green."},
     {
         "id": 2,
         "name": "Cat Plushie",
         "price": "$",
-        "image": "",
-        "description": ""
+        "image": "https://cdn.nookazon.com/nookazon/FtrIcon/FtrStuffedCat_Remake_1_0.png",
+        "description": "1000 bells"
     },
     {
         "id": 3,
         "name": "Vintage Dresser",
-        "price": "$",
-        "image": "",
-        "description": ""
+        "price": "5000 bells",
+        "image": "https://img.game8.co/3453128/a19a2b3a6218c63310c5b9ce481e8ee8.png/show",
+        "description": "This dresser is part of the Vintage series. It comes in black, white, brown, beige, and green."
     },
     {
         "id": 4,
         "name": "Artful Bed",
-        "price": "$",
-        "image": "",
-        "description": ""
+        "price": "15000 bells",
+        "image": "https://img.game8.co/4387329/250ede98de75a66118b97c1479f883a5.png/show",
+        "description": "This is a minimalistic, clean bed from the Artful series. The wood and sheet color are customizable."
     },
     {
         "id": 5,
-        "name": "Fan Palm",
-        "price": "$",
-        "image": "",
-        "description": ""
+        "name": "Gardon Wagon",
+        "price": "0 bells",
+        "image": "https://pbs.twimg.com/media/Fv2G-l0agAA_dZo.jpg",
+        "description": "The perfect addition to any garden! This wooden wagon comes filled with colorful flowers. It is a craftable item."
     }
 ]
 
