@@ -42,4 +42,11 @@ const renderFurnitureHome = async () => {
 
 }
 
-renderFurnitureHome()
+const requestedUrl = window.location.href.split('/').pop()
+
+if (requestedUrl) {
+    window.location.href = '../404.html'
+}
+else {
+    renderFurnitureHome()
+}
