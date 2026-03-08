@@ -1,4 +1,5 @@
 import express from 'express'
+import "./config/dotenv.js"
 import furnitureRouter from './routes/furniture.js'
 
 const app = express()
